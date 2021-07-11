@@ -1,0 +1,5 @@
+这是 [[https://chenzaichun.github.io][https://chenzaichun.github.io]] 评论是所用的仓库，使用 =utterances= 作为评论系统。
+
+- 博客源代码见 [[https://github.com/chenzaichun/chenzaichun.github.io][https://github.com/chenzaichun/chenzaichun.github.io]]
+- 博客访问见 [[https://chenzaichun.github.io/][https://chenzaichun.github.io/]]
+- 原始 =heroku= 博客见 [[https://yesokay.herokuapp.com][https://yesokay.herokuapp.com]]
